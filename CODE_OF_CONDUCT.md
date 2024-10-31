@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+#  https://github.com/ton-community/func-js.git
 
 ## Our Pledge
 
